@@ -1,8 +1,3 @@
-/**
- * Name:
- * Student Number:
- */
-
 public class SplayTree<T extends Comparable<T>> {
 
 	protected enum SplayType {
